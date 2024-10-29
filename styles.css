@@ -1,0 +1,45 @@
+header {
+    background-color: #FFFFFF;
+}
+.address .link {
+    color: #434455;
+}
+
+.address .link:hover,
+.address .link:focus {
+    color: #404BBF;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+    font-weight: normal ;
+}
+
+h1, h2, h3{
+    font-family: "Roboto", sans-serif;
+}
+
+.page-footer{
+    background-color: #2E2F42;
+}
+
+.solutions{
+    background-color: #2E2F42;
+}
+
+.team{
+    background-color: #E7E9FC;
+}
+
+h1{
+    color: #FFFFFF;
+    font-size: 56px;
+}
+
+.logo{
+    color: #4D5AE5;
+}
